@@ -4,6 +4,6 @@
 
 def roll
   ary = Array.new
-  ary = {1, 2, 3, 4, 5, 6}
+  ary = [1, 2, 3, 4, 5, 6]
   puts ary.rand
 end

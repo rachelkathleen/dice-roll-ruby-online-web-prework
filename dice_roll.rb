@@ -4,5 +4,5 @@
 
 def roll
   ary = [1, 2, 3, 4, 5, 6]
-  return ary.rand
+  puts ary.rand
 end
